@@ -2,7 +2,7 @@
 # Financial Credit Card Fraud Detection Using Quantum Graph Neural Networks
 
 <p align="center">
-  <strong>Master's Thesis | Quantum Computing | Quantum Machine Learning</strong>
+  <strong> Quantum Computing | Quantum Machine Learning</strong>
 </p>
 
 <p align="center">
